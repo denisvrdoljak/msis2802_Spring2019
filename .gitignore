@@ -1,0 +1,5 @@
+
+*.pptx
+*.ppt
+.ipynb_checkpoints
+~$*
